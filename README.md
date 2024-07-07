@@ -1,2 +1,2 @@
 # Odin-Recipes
-This is my first website that I've ever done! This was my introduction to the world of front end development using html. I practiced making ordered and unordered lists, as well as making links and images appear within an html document. Overall, I think this was a great first project that I hope that I learn and grow from
+This is my first website that I've ever done! This was my introduction to the world of front end development using html. I practiced making ordered and unordered lists, as well as making links and images appear within an html document. Overall, I think this was a great first project that I hope that I learn and grow from.
